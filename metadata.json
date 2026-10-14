@@ -1,0 +1,6 @@
+{
+  "name": "Future Wealth Planner",
+  "description": "Comprehensive Bangladeshi Taka (BDT) wealth, retirement, investment, and savings planner with scenario comparison, goal tracking, and AI financial insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
